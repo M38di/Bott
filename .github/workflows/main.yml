@@ -21,7 +21,7 @@ jobs:
       run: pip install --upgrade pip
 
     - name: Run Python script
-      run: python py.py
+      run: python Py.py
 
     - name: Commit changes
       run: |
